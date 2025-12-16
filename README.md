@@ -9,4 +9,5 @@ RTL
 
 
 PINS
-https://github.com/mit41301/RUN-LED-EP4CE6E22/blob/main/pins.jpg
+<img width="1156" height="279" alt="image" src="https://github.com/user-attachments/assets/331329be-6f1e-4a8e-8e0f-5e14369ad18e" />
+
